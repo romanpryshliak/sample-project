@@ -1,0 +1,6 @@
+apis:
+  sample@v1:
+    root: petstore.yaml
+
+features.openapi:
+  pagination: section
